@@ -1,9 +1,6 @@
 # TestS2IT_Scala
 Project of S2IT - Scala
 
-# TestS2IT
-Project of test S2IT
-
 1 - Acerca de sistemas de desenvolvimento web, assinale a opção correta.
 <b>A - Servlet é uma classe do Java que possibilita ampliar os recursos de servidores web, desenvolvida para permitir conteúdos dinâmicos orientados ao usuário. </b>
 
